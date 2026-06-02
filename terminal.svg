@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 320" width="100%" height="320">
+  <style>
+    .bg { fill: #282828; rx: 12px; }
+    .header { fill: #1d2021; }
+    .dot-red { fill: #fb4934; }
+    .dot-yellow { fill: #fabd2f; }
+    .dot-green { fill: #b8bb26; }
+    .terminal-text {
+      font-family: 'Fira Code', 'Courier New', Courier, monospace;
+      font-size: 14px;
+      fill: #ebdbb2;
+    }
+    .prompt-user { fill: #b8bb26; font-weight: bold; }
+    .prompt-host { fill: #8ec07c; font-weight: bold; }
+    .separator { fill: #a89984; }
+    .key { fill: #83a598; font-weight: bold; }
+    .val { fill: #ebdbb2; }
+    .ascii { 
+      fill: #fe8019; 
+      font-weight: bold; 
+      font-family: 'Apple Braille', 'Segoe UI Symbol', 'DejaVu Sans', monospace; 
+      font-size: 13px; 
+    }
+  </style>
+
+  <rect class="bg" width="500" height="320" />
+  
+  <path class="header" d="M 12,0 h 476 a 12,12 0 0 1 12,12 v 24 h -500 v -24 a 12,12 0 0 1 12,-12 z" />
+  
+  <circle class="dot-red" cx="25" cy="18" r="6" />
+  <circle class="dot-yellow" cx="45" cy="18" r="6" />
+  <circle class="dot-green" cx="65" cy="18" r="6" />
+  
+  <text x="250" y="23" font-family="'Fira Code', monospace" font-size="12" fill="#a89984" text-anchor="middle">kitty</text>
+  
+  <g class="ascii" xml:space="preserve">
+    <text x="20" y="80"> <tspan fill="transparent">⣿</tspan>⢀⣤⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⣤⡀</text>
+    <text x="20" y="98"> ⢠⡟<tspan fill="transparent">⣿⣿⣿</tspan>⣀⣀<tspan fill="transparent">⣿⣿⣿</tspan>⣀<tspan fill="transparent">⣿⣿⣿</tspan>⢀⣀<tspan fill="transparent">⣿⣿</tspan>⢹⡆</text>
+    <text x="20" y="116">⢸⡇<tspan fill="transparent">⣿⣿</tspan>⢸⣿⣿⠷⠛⠋⠉⠙⠛⢶⣿⣽⣷<tspan fill="transparent">⣿⣿</tspan>⢸⡇</text>
+    <text x="20" y="134">⢸⡇<tspan fill="transparent">⣿⣿</tspan>⢠⡟⠁<tspan fill="transparent">⣿⣿⣿⣿⣿⣿⣿⣿</tspan>⠈⢻⡅<tspan fill="transparent">⣿</tspan>⢸⡇</text>
+    <text x="20" y="152">⢸⡇<tspan fill="transparent">⣿</tspan>⣠⠞<tspan fill="transparent">⣿</tspan>⠛⢃⡴⠺⡽⠓⢄⠛⠓<tspan fill="transparent">⣿</tspan>⠹⣄<tspan fill="transparent">⣿</tspan>⢸⡇</text>
+    <text x="20" y="170">⢸⡇⢰⡏<tspan fill="transparent">⣿⣿⣿</tspan>⣼<tspan fill="transparent">⣿⣿</tspan>⡇<tspan fill="transparent">⣿</tspan>⠈⡇<tspan fill="transparent">⣿⣿⣿</tspan>⢹⡆⢸⡇</text>
+    <text x="20" y="188">⢸⡇⢸⡄<tspan fill="transparent">⣿⣿⣿</tspan>⠹⣄⣰⠳⣀⡴⠃<tspan fill="transparent">⣿⣿⣿</tspan>⢀⡿⢼⡇</text>
+    <text x="20" y="206">⢸⡇⠈⢻⣦⣴⠶⠶⣦⠈⠉⠁⣠⡴⠶⣤⣠⡾⠃⢸⡇</text>
+    <text x="20" y="224">⠸⣇⢠⡿⠉⠈⢧⣠⡟<tspan fill="transparent">⣿⣿⣿</tspan>⢻⣄⣠⠇⠉⢻⡄⣸⠇</text>
+    <text x="20" y="242"> <tspan fill="transparent">⣿</tspan>⠙⠻⠶⠤⠶⠾⠥⠤⠤⠤⠤⠤⠭⠷⠦⠤⠴⠿⠋<tspan fill="transparent">⣿</tspan></text>
+  </g>
+
+
+  <g class="terminal-text">
+    <text x="250" y="80">
+      <tspan class="prompt-user">pedromatta</tspan><tspan fill="#ebdbb2">@</tspan><tspan class="prompt-host">nixos</tspan>
+    </text>
+    
+    <text x="250" y="98" class="separator">-----------------------</text>
+    
+    <text x="250" y="120"><tspan class="key">Name</tspan><tspan fill="#a89984">: </tspan><tspan class="val">Pedro Matta</tspan></text>
+    <text x="250" y="142"><tspan class="key">Role</tspan><tspan fill="#a89984">: </tspan><tspan class="val">Fullstack Developer</tspan></text>
+    <text x="250" y="164"><tspan class="key">OS</tspan><tspan fill="#a89984">: </tspan><tspan class="val">NixOS x86_64</tspan></text>
+    <text x="250" y="186"><tspan class="key">Editor</tspan><tspan fill="#a89984">: </tspan><tspan class="val">Neovim</tspan></text>
+    <text x="250" y="208"><tspan class="key">Shell</tspan><tspan fill="#a89984">: </tspan><tspan class="val">zsh</tspan></text>
+    <text x="250" y="230"><tspan class="key">Keyboard</tspan><tspan fill="#a89984">: </tspan><tspan class="val">Silakka54</tspan></text>
+    <text x="250" y="252"><tspan class="key">Location</tspan><tspan fill="#a89984">: </tspan><tspan class="val">Brazil</tspan></text>
+  </g>
+</svg>
+

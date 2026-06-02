@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="100%" height="120">
+  <style>
+    .title {
+      font-family: 'Fira Code', 'Courier New', Courier, monospace;
+      font-size: 38px;
+      font-weight: 700;
+      fill: #fe8019;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      letter-spacing: 1px;
+    }
+    .subtitle {
+      font-family: 'Fira Code', 'Courier New', Courier, monospace;
+      font-size: 16px;
+      fill: #a89984;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      letter-spacing: 4px;
+    }
+  </style>
+  <rect width="100%" height="100%" fill="none" />
+  <text x="50%" y="45%" class="title">Hey, kids. What's for dinner?</text>
+  <text x="50%" y="85%" class="subtitle">GITHUB.COM / PEDROMATTA</text>
+</svg>
