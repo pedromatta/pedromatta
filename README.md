@@ -1,13 +1,8 @@
+<div>
+    <img src="./title.svg" alt="Hey, Kids, What's for dinner?"/>
+</div>
 <div align="center">
     <table>
-        <tr>
-            <td colspan="2">
-            <br>
-                <div>
-                    <img src="./title.svg" alt="Hey, Kids, What's for dinner?"/>
-                </div>
-            </td>
-        </tr>
         <tr>
             <td colspan="2">
                 <br>
