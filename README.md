@@ -8,7 +8,8 @@
         </td>
     </tr>
     <tr>
-        <td width="60%" valign="middle">
+        <!-- <td width="60%" valign="middle"> -->
+        <td colspan="2">
             <br>
             <p align="center">
                 <a href="https://github.com/pedromatta?tab=followers"><img src="https://img.shields.io/badge/GitHub-8ec07c?style=for-the-badge&logo=github&logoColor=282828" alt="Github" /></a>
@@ -18,10 +19,10 @@
                 <img src="./terminal.svg" width="100%" alt="Neofetch Terminal" />
             <br/><br/>
         </td>
-        <td width="40%" valign="middle" align="center">
-            <br>
-            <img src="./laptop.gif" alt="Cozy Coding Pixel Art" width="100%" />
-        </td>
+        <!-- <td width="40%" valign="middle" align="center"> -->
+        <!--     <br> -->
+        <!--     <img src="./laptop.gif" alt="Cozy Coding Pixel Art" width="100%" /> -->
+        <!-- </td> -->
     </tr>
     <tr>
         <td colspan="2">
