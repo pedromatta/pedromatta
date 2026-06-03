@@ -2,20 +2,13 @@
     <img src="./title.svg" alt="Hey, Kids, What's for dinner?"/>
 </div>
 <div align="center">
+    <div>
+        <a href="https://github.com/pedromatta?tab=followers"><img src="https://img.shields.io/badge/GitHub-8ec07c?style=for-the-badge&logo=github&logoColor=282828" alt="Github" /></a>
+        &nbsp;&nbsp;
+        <a href="https://linkedin.com/in/mattapedro"><img src="https://img.shields.io/badge/LinkedIn-83a598?style=for-the-badge&logo=linkedin&logoColor=282828" alt="LinkedIn" /></a>
+    </div>
+    <img src="./terminal.svg" alt="Output like neofetch with information about Pedro Matta"/>
     <table>
-        <tr>
-            <td colspan="2">
-                <br>
-                <div>
-                    <a href="https://github.com/pedromatta?tab=followers"><img src="https://img.shields.io/badge/GitHub-8ec07c?style=for-the-badge&logo=github&logoColor=282828" alt="Github" /></a>
-                    &nbsp;&nbsp;
-                    <a href="https://linkedin.com/in/mattapedro"><img src="https://img.shields.io/badge/LinkedIn-83a598?style=for-the-badge&logo=linkedin&logoColor=282828" alt="LinkedIn" /></a>
-                </div>
-                <br>
-                <img src="./terminal.svg" alt="Output like neofetch with information about Pedro Matta"/>
-                <br><br>
-            </td>
-        </tr>
         <tr>
             <th>
                 Tech Stack
