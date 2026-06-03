@@ -1,27 +1,30 @@
-![Hey, Kids, What's for dinner?](./title.svg)
-
-<div align="center">
-    <a href="https://github.com/pedromatta?tab=followers"><img src="https://img.shields.io/badge/GitHub-8ec07c?style=for-the-badge&logo=github&logoColor=282828" alt="Github" /></a>
-    &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/mattapedro"><img src="https://img.shields.io/badge/LinkedIn-83a598?style=for-the-badge&logo=linkedin&logoColor=282828" alt="LinkedIn" /></a>
-</div>
-<br>
-
-<div align="center">
-    <img src="./terminal.svg" alt="Output like neofetch with information about Pedro Matta"/>
-</div>
-
-<br>
-
 <div align="center">
     <table>
         <tr>
-            <th>
-                Tech Stack
-            </th>
+            <td colspan="2">
+            <br>
+                <div>
+                    <img src="./title.svg" alt="Hey, Kids, What's for dinner?"/>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <br>
+                <div>
+                    <a href="https://github.com/pedromatta?tab=followers"><img src="https://img.shields.io/badge/GitHub-8ec07c?style=for-the-badge&logo=github&logoColor=282828" alt="Github" /></a>
+                    &nbsp;&nbsp;
+                    <a href="https://linkedin.com/in/mattapedro"><img src="https://img.shields.io/badge/LinkedIn-83a598?style=for-the-badge&logo=linkedin&logoColor=282828" alt="LinkedIn" /></a>
+                </div>
+                <br>
+                <img src="./terminal.svg" alt="Output like neofetch with information about Pedro Matta"/>
+                <br><br>
+            </td>
         </tr>
         <tr>
             <td>
+                <br>
+                <p><b>Tech Stack</b></p>
                 <p align="center">
                     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-%23b8bb26?style=for-the-badge&logo=c-sharp&logoColor=282828" alt="C#" /></a>
                     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://img.shields.io/badge/ASP.NET-%2383a598?style=for-the-badge&logo=dotnet&logoColor=282828" alt="ASP.NET" /></a>
