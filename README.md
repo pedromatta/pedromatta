@@ -1,49 +1,45 @@
-
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
         <td colspan="2">
+            <br>
             <p align="center">
-              <img src="./title.svg" alt="Hey, kids. What's for dinner?" width="750" />
+                <img src="./title.svg" alt="Hey, kids! What's for dinner?" width="750" />
             </p>
         </td>
     </tr>
     <tr>
-        <td width="55%" valign="middle">
-          <br>
-          <p align="center">
-            <a href="https://linkedin.com/in/pedromatta">
-              <img src="./linkedin-button.svg" width="170" alt="LinkedIn" />
-            </a>
-            &nbsp;&nbsp;
-            <a href="https://github.com/pedromatta?tab=followers">
-              <img src="./follow-button.svg" width="170" alt="Follow Me" />
-            </a>
-          </p>
-          <img src="./terminal.svg" width="100%" alt="Neofetch Terminal" />
-          <br/><br/>
+        <td width="60%" valign="middle">
+            <br>
+            <p align="center">
+                <a href="https://github.com/pedromatta?tab=followers"><img src="https://img.shields.io/badge/GitHub-8ec07c?style=for-the-badge&logo=github&logoColor=282828" alt="Github" /></a>
+                &nbsp;&nbsp;
+                <a href="https://linkedin.com/in/mattapedro"><img src="https://img.shields.io/badge/LinkedIn-83a598?style=for-the-badge&logo=linkedin&logoColor=282828" alt="LinkedIn" /></a>
+            </p>
+                <img src="./terminal.svg" width="100%" alt="Neofetch Terminal" />
+            <br/><br/>
         </td>
         <td width="40%" valign="middle" align="center">
-          <br>
-          <img src="./laptop.gif" alt="Cozy Coding Pixel Art" width="100%" />
+            <br>
+            <img src="./laptop.gif" alt="Cozy Coding Pixel Art" width="100%" />
         </td>
     </tr>
     <tr>
         <td colspan="2">
-            <h3 align="center">🛠️ Tech Stack</h3>
+            <h4 align="center">Tech Stack</h3>
             <p align="center">
-              <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-%23b8bb26?style=for-the-badge&logo=c-sharp&logoColor=282828" alt="C#" /></a>
-              <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://img.shields.io/badge/ASP.NET-%2383a598?style=for-the-badge&logo=dotnet&logoColor=282828" alt="ASP.NET" /></a>
-              <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-%238ec07c?style=for-the-badge&logo=typescript&logoColor=282828" alt="TypeScript" /></a>
-              <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-%23fabd2f?style=for-the-badge&logo=python&logoColor=282828" alt="Python" /></a>
-              <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-%23fe8019?style=for-the-badge&logo=rust&logoColor=282828" alt="Rust" /></a>
-              <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-%23ebdbb2?style=for-the-badge&logo=linux&logoColor=282828" alt="Linux" /></a>
-              <br/>
-              <a href="https://neovim.io"><img src="https://img.shields.io/badge/Neovim-%23fb4934?style=for-the-badge&logo=neovim&logoColor=282828" alt="Neovim" /></a>
-              <a href="https://nixos.org"><img src="https://img.shields.io/badge/NixOS-%2383a598?style=for-the-badge&logo=nixos&logoColor=282828" alt="NixOS" /></a>
-              <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-%238ec07c?style=for-the-badge&logo=docker&logoColor=282828" alt="Docker" /></a>
-              <a href="https://reactnative.dev"><img src="https://img.shields.io/badge/React_Native-%2383a598?style=for-the-badge&logo=react&logoColor=282828" alt="React Native" /></a>
-              <a href="https://angular.dev"><img src="https://img.shields.io/badge/Angular-%23fb4934?style=for-the-badge&logo=angular&logoColor=282828" alt="Angular" /></a>
-              <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-%23b8bb26?style=for-the-badge&logo=vue.js&logoColor=282828" alt="Vue.js" /></a>
+                <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-%23b8bb26?style=for-the-badge&logo=c-sharp&logoColor=282828" alt="C#" /></a>
+                <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://img.shields.io/badge/ASP.NET-%2383a598?style=for-the-badge&logo=dotnet&logoColor=282828" alt="ASP.NET" /></a>
+                <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-%238ec07c?style=for-the-badge&logo=typescript&logoColor=282828" alt="TypeScript" /></a>
+                <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-%23fabd2f?style=for-the-badge&logo=python&logoColor=282828" alt="Python" /></a>
+                <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-%23fe8019?style=for-the-badge&logo=rust&logoColor=282828" alt="Rust" /></a>
+                <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-%23ebdbb2?style=for-the-badge&logo=linux&logoColor=282828" alt="Linux" /></a>
+                <br/>
+                <a href="https://neovim.io"><img src="https://img.shields.io/badge/Neovim-%23fb4934?style=for-the-badge&logo=neovim&logoColor=282828" alt="Neovim" /></a>
+                <a href="https://nixos.org"><img src="https://img.shields.io/badge/NixOS-%2383a598?style=for-the-badge&logo=nixos&logoColor=282828" alt="NixOS" /></a>
+                <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-%238ec07c?style=for-the-badge&logo=docker&logoColor=282828" alt="Docker" /></a>
+                <a href="https://reactnative.dev"><img src="https://img.shields.io/badge/React_Native-%2383a598?style=for-the-badge&logo=react&logoColor=282828" alt="React Native" /></a>
+                <a href="https://angular.dev"><img src="https://img.shields.io/badge/Angular-%23fb4934?style=for-the-badge&logo=angular&logoColor=282828" alt="Angular" /></a>
+                <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-%23b8bb26?style=for-the-badge&logo=vue.js&logoColor=282828" alt="Vue.js" /></a>
             </p>
         </td>
     </tr>
