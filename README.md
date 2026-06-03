@@ -16,12 +16,14 @@
                 <br><br>
             </td>
         </tr>
-    </table>
-    <table>
+        <tr>
+            <th>
+                Tech Stack
+            </th>
+        </tr>
         <tr>
             <td>
                 <br>
-                <p><b>Tech Stack</b></p>
                 <p align="center">
                     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-%23b8bb26?style=for-the-badge&logo=c-sharp&logoColor=282828" alt="C#" /></a>
                     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://img.shields.io/badge/ASP.NET-%2383a598?style=for-the-badge&logo=dotnet&logoColor=282828" alt="ASP.NET" /></a>
