@@ -7,7 +7,7 @@
 </div>
 <br>
 
-![Output like neofetch with information about Pedro Matta](./terminal.svg)
+<img align="center" src="./terminal.svg" alt="Output like neofetch with information about Pedro Matta"/>
 
 ---
 <p align="center"><b>Tech Stack</b></p>
